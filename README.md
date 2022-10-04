@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on Opensource and new learner.
 - 💥 next year - goal be Devops professional.
 - ✋ Fun fact : I love travelling , writing shayari.
-- 📫 How to reach me ...
+- 📫 How to reach me via email : mohdaseemakram19@gmail.com
+     Contact : 9666192490 , Hyderaba India 
 
 <!---
 Aseemakram19/Aseemakram19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
