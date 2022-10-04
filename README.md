@@ -6,7 +6,7 @@
 - 💥 next year - goal be Devops professional.
 - ✋ Fun fact : I love travelling , writing shayari.
 - 📫 How to reach me via email : mohdaseemakram19@gmail.com
-     Contact : 9666192490 , Hyderaba India 
+     Contact : 9666192490 , Hyderabad  India. 
 
 <!---
 Aseemakram19/Aseemakram19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
