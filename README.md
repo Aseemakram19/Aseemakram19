@@ -3,10 +3,10 @@
 - 👀 I’m currently working as DevOps & cloud Engineer.
 - 🌱 I’m currently learning Python & VS code.
 - 💞️ I’m looking to collaborate on Opensource and new learner.
-- 💥 next year - goal be Devops professional.
+- 💥 Goal - Learn & share knowleged in open source 
 - ✋ Fun fact : I love travelling , writing shayari.
 - 📫 How to reach me via email : mohdaseemakram19@gmail.com
-     Contact : 9666192490 , Hyderabad  India. 
+     Contact : 7032741591 , Hyderabad  India. 
 
 <!---
 Aseemakram19/Aseemakram19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
