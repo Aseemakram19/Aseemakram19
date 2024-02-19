@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on youtube cummunity  & Opensource 
 -     Fun fact : I love travelling , writing shayari.
 - 📫 How to reach me via email : mohdaseemakram19@gmail.com
-     Contact : 7032741591 , Hyderabad  India. 
+
+      Contact me on linkdein for any Queries : www.linkedin.com/in/mohammed-aseem-akram , 
+      Location : Hyderabad  India. 
 
 <!---
 Aseemakram19/Aseemakram19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
