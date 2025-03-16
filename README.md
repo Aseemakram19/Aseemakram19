@@ -3,7 +3,7 @@
 
 **Subscribe my Youtube Channel**         | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@clouddevopswithaseem) |
 **Reachout with Email**                  | [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
-)](mohdaseemakram19@gmail.com) |
+)] mohdaseemakram19@gmail.com |
 
 **Welcome to the My Github repo for DevOps , DevSecops, AIML project! This profile demonstrates how to use Kubernetes , modern DevOps tools, practices and following a DevSecOps approach.**
 
@@ -38,7 +38,9 @@ Let's connect and discuss DevSecOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aseem-akram/)  
 
-
+**Reachout with Email**                  | [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
+)]mohdaseemakram19@gmail.com |
+**Subscribe my Youtube Channel**         | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@clouddevopswithaseem) |
 
 
 
